@@ -1,2 +1,2 @@
 # doho
-# my homeassistant project
+# my homeassistant project (DOmoticHOuse)
