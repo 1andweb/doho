@@ -1,4 +1,13 @@
 # doho
+# LAVABO code to implement
+# HARDWARE
+# RPI ZERO W
+# BLINKT GPIO OUT: 23-data 24-clock
+# DHT 22 GPIO IN: 
+# PIR GPIO IN->
+# RELAY GPIO OUT->
+# SWITCH MANUAL GPIO IN ->
+# WINDOW MAGNET GPIO IN ->
 
 DHT22 MQTT Daemon
 
