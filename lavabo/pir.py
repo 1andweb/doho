@@ -1,3 +1,5 @@
+# Basic code to test PIR function
+
 import RPi.GPIO as GPIO
 import time
 
